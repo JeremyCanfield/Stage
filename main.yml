@@ -1,0 +1,4 @@
+---
+- name: "testing"
+  debug:
+    msg: "this is a test"
